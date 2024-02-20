@@ -1,7 +1,5 @@
 # HR-Analytics-Dashboard-using-Power-BI
-- Interact with the Dashboard (https://www.novypro.com/project/hr-analytics-dashboard-power-bi-2) 
-- This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
-- HR analytics aim to provide insight into how best to manage employees and reach business goals. The objective is to monitor key HR metrics on employees and identify what factors impact attrition.Created several reports with information on following factors which will help the organization determine what action they will need to take to retain more employees. Taken some necessary steps to get insights.
+- This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations
 
 # Tools Used:
 - Power BI
@@ -34,4 +32,4 @@
 # Conclusion:
 Analyzed employee data to identify trends and insights using Power Query and DAX in Power BI. Created an interactive dashboard to track employee turnover and reasons for attrition. Discovered that salespeople are leaving the company in greater numbers due to a lower salary and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address the issue and retain employees.
 
-
+image: C:\Users\laksh\OneDrive\Desktop\HR data\Dataset\Screenshot 2024-02-20 214737.png
